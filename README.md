@@ -1,5 +1,5 @@
 # 💫 About Me:
-Results-driven Automation Test Specialist with expertise in JAVA, Selenium, Appium, and RestAssured, skilled in creating efficient automation strategies. Proficient in HTML5, JavaScript, and UiPath for RPA, with hands-on experience in CI/CD tools like Jenkins and GitHub. Known for developing robust testing frameworks and streamlining test processes using JIRA and Quality Center.
+Results-driven Automation Test Specialist with expertise in JAVA, Selenium, Appium, and RestAssured, skilled in creating efficient automation strategies. Proficient in HTML5, JavaScript, and UiPath for RPA, with experience in CI/CD tools like Jenkins and GitHub. Known for developing robust testing frameworks and streamlining test processes using JIRA and Quality Center.
 
 
 ## 🌐 Socials:
